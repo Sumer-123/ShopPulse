@@ -1,0 +1,20 @@
+# Ignore Data (The Lake)
+spark_data/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore System Files
+.DS_Store
+Thumbs.db
+
+# Ignore Virtual Envs (if any)
+venv/
+env/
+.env
