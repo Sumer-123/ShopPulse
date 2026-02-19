@@ -1,7 +1,7 @@
 # ShopPulse: Real-Time E-Commerce Data Lakehouse 🚀
 
 ## 📖 Project Overview
-ShopPulse is a scalable, real-time data engineering platform designed to process high-velocity e-commerce clickstream data. It utilizes a **Kappa Architecture** pattern to ingest, process, and serve insights with sub-minute latency.
+ShopPulse is a scalable, real-time data engineering platform designed to process high-velocity e-commerce clickstream data. It utilizes a **Kappa Architecture** pattern to ingest, process, and serve insights with sub-minute latency
 
 The system handles end-to-end data flow:
 1.  **Data Generation:** Simulating user traffic (Views, Carts, Purchases).
